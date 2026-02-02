@@ -26,4 +26,5 @@ If sensors show incorrect readings, check wiring connections and power supply. I
 SENYONJO DISAN,
 ASASIRA QUEEN PINKLIN,
 NAMUGERWA WITTY SHALUAH,
-LUKODA FAHAD.
+LUKODA FAHAD
+
