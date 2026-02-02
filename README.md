@@ -22,7 +22,7 @@ The temperature threshold of 35°C can be easily modified in the code for differ
 <h3>Troubleshooting.<h3/>
 If sensors show incorrect readings, check wiring connections and power supply. If the piezo buzzer makes noise at startup, ensure the code with silent initialization is called. For persistent issues, use the Serial Monitor to check sensor readings and identify whether problems are hardware or software related.
 
-<h2>Participants.</h2>
+<h2>Participants.<h2/>
 SENYONJO DISAN,
 ASASIRA QUEEN PINKLIN,
 NAMUGERWA WITTY SHALUAH,
